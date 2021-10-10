@@ -1,0 +1,39 @@
+1)      Criar uma função para receber  uma string como parâmetro:
+
+a)       Contar a quantidade de palavras repetidas em uma frase e retornar o total.
+
+b)      Chamar a função e exibir o resultado no console.
+
+ >>>>  var saberAltura = (parametroOne) =>{
+    console.log(" humanidade "+ parametroOne.)
+  }
+  saberAltura()  
+
+2)      Criar uma função que receba um array com 5 números como parâmetros:
+
+a)       Inverter o array e retornar o resultado.
+
+b)      Chamar a função e exibir o resultado no console.
+
+
+>>>  var numeros = parametroOne =>{
+  let cinco = [" 1 ", "2" , "3" , "4" , "5 "]
+  console.log(cinco.reverse()+ parametroOne);
+};
+numeros();
+
+
+3)      Criar uma função que receba 4 números inteiros positivos como parâmetros:
+
+a)       Calcular a soma de todos os números.
+
+b)      Retornar o Resultado.
+
+c)       Chamar a função e exibir o resultado no console.
+
+>>>  var numeros = parametroOne =>{
+ let soma  = 90 + 80 + 50 + 10
+  console.log (soma)
+  console.log(soma + parametroOne);
+};
+numeros();
